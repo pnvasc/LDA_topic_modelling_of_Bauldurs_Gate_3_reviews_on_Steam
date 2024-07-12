@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+bg3_analysis_env/
+*.db
+.env
+# IDE
+.vscode/
+.idea/
+# Misc
+.DS_Store
+config.py
+setup_project.sh
