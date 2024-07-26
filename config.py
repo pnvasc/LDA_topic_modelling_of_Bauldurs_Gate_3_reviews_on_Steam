@@ -1,0 +1,1 @@
+BG3_data_file_path = '/Users/paula/Documents/Portfolio/LDA_topic_modelling_of_Bauldurs_Gate_3_reviews_on_Steam/BG3_reviews.csv'
